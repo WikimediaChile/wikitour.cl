@@ -1,0 +1,7 @@
+.li-personal { list-style: initial;}
+
+.li-personal li { text-align: left }
+
+h3 small { font-size: .7em; }
+
+#nav ul li a.active span:before { color: white; }
