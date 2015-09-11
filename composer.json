@@ -1,6 +1,5 @@
 {
     "require": {
-        "bcosca/fatfree": "^3.5",
-        "ikkez/f3-assets": "dev-master"
+        "bcosca/fatfree": "^3.5"
     }
 }
